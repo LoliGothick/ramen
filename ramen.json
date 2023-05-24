@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "トイ・ボックス",
+            "regular_day_off": "月曜日、第2火曜日 ※月曜日が祝日の場合は営業、翌日休",
+            "seats": "カウンター8席",
+            "blog": "https://www.mitama.io/posts/01GTDAQRWSMRGDZAX537W9H2CK/",
+            "location": {
+                "latitude": 35.73131994920028,
+                "longitude": 139.79206459728505,
+                "address": {
+                    "prefecture": "東京都",
+                    "city": "荒川区",
+                    "other": "東日暮里"
+                }
+            }
+        }
+    ]
+}
